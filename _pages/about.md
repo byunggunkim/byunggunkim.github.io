@@ -1,11 +1,27 @@
 ---
 permalink: /
-title: "Welcome to the byunggunkim's official website."
+title: "Welcome to my official website."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Hi! I'm Byunggun Kim.  
+I'm focused on researching AI for human well-being.
+
+# About Me
+
+I am passionate about advancing the field of artificial intelligence, with a particular focus on deep learning and its applications in diagnosing mental diseases and human-computer interaction. My research interests include:
+
+- **Deep Learning:** Exploring state-of-the-art neural network architectures (e.g., CNN, Transformer, Diffusion) to solve complex problems.
+- **Diagnosis of Mental Health with rs-fMRI:** Developing deep learning-based models for diagnosing and understanding mental health conditions by leveraging resting-state functional magnetic resonance imaging (rs-fMRI) data.
+- **Speech Emotion Recognition (SER):** Investigating how deep learning and signal processing can be used to automatically detect and classify emotions from speech, which are highly correlated with human internal feelings.
+
+My goal is to develop innovative deep learning models that can make a real-world impact in healthcare and beyond.
+
+Feel free to connect with me to discuss research, collaboration, or new ideas!
+
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
