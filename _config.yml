@@ -24,8 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Byunggun Kim"
-  # pronouns         : "he/him"  
-  bie              : "PhD student in the Department of applied artificial intelligence at Hanyang University, Ansan, South Korea"
+  bio              : "PhD student in the Department of applied artificial intelligence at Hanyang University, Ansan, South Korea"
   location         : "Ansan, South Korea"
   email            : "byunggunkim@hanyang.ac.kr" 
 
