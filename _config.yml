@@ -24,19 +24,18 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Byunggun Kim"
-  pronouns         : # example: "she/her"  
-  bio              : ""
+  pronouns         : "he/him"  
+  bio              : "I am a PhD student in the Department of applied artificial intelligence at Hanyang University, Ansan, South Korea. My research interests include deep learning, diagnosis mental health with rs-fMRI, and speech emotion recognition."
   location         : "Ansan, South Korea"
   email            : "byunggunkim@hanyang.ac.kr" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid            : "http://orcid.org/yourorcidurl"
+  googlescholar    : "https://scholar.google.com/citations?user=V1rc08MAAAAJ&hl=ko"
+  orcid            : "https://orcid.org/0000-0001-5655-7295"
   researchgate     : # URL
 
   # Repositories and software development
-  github           : "academicpages"
+  github           : "byunggunkim"
 
   # Social media
   linkedin         : # Username
@@ -46,7 +45,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles' 
   conferences:
     title: 'Conference Papers'
 
@@ -58,7 +57,7 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom", "utterances"
   disqus: 
     shortname            : 
   discourse:
@@ -67,6 +66,10 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
+  utterances:
+    repo                 : "byunggunkim/byunggunkim.github.io"
+    issue-term          : "title"
+    theme              : "github-light"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
